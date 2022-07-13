@@ -1,0 +1,1085 @@
+Gelfand Dock in Misisture and 13.71704146536344Ly away
+Dummer Orbital in Arigens and 17.234537907208303Ly away
+Ordway Ring in Arigens and 17.234537907208303Ly away
+Shuttleworth Hub in Gamma Coronae Austrinae and 20.822116772196818Ly away
+Hadfield Orbital in Alino and 21.206780497343296Ly away
+Sharman City in Apik and 21.79955740663099Ly away
+Bose Dock in Apik and 21.79955740663099Ly away
+Linaweaver Port in Ngombivas and 22.06989075924482Ly away
+Cowper Orbital in LTT 7330 and 23.355230610614832Ly away
+Schmitt Station in LTT 7138 and 24.634000575931633Ly away
+Gagarin Dock in LHS 3317 and 27.915836819133688Ly away
+Hermite Horizons in Grabika and 29.303536742601565Ly away
+Hardwick Ring in Eta Scorpii and 31.594970921018426Ly away
+Boodt Terminal in Corn Pin and 31.749061870982896Ly away
+Lander Port in HR 7291 and 32.04467706382762Ly away
+Gohar Vision in Salleda and 32.9932225521394Ly away
+Garn Settlement in Panoi and 33.86004916841527Ly away
+Garan Hub in Panoi and 33.86004916841527Ly away
+Kotov City in LTT 6774 and 35.50551508656789Ly away
+Gorbatko Enterprise in FS 34 and 35.81935743683155Ly away
+McKay City in Asurasairu and 37.149731345764806Ly away
+Kelly Station in Nzamnite and 44.58314958100762Ly away
+Wingrove Port in Kuukese and 47.18097016078092Ly away
+Hill Orbital in Ingaman and 51.79082025320704Ly away
+Creighton Vision in LP 806-8 and 52.44663396312961Ly away
+Zhigang Platform in BPM 62891 and 52.75436889490765Ly away
+Morukov Station in BD-11 4932 and 52.94629870798336Ly away
+Tilley Enterprise in Di Kuana and 53.67467469044409Ly away
+Fearn Ring in Di Kuana and 53.67467469044409Ly away
+Poleshchuk Landing in LP 804-27 and 55.75775940956559Ly away
+Mitchell Dock in Vitoa and 56.10099187235908Ly away
+Al Saud Ring in Borfor and 56.78136179130437Ly away
+Garneau Port in Aryak and 58.59629161154313Ly away
+Crouch Hub in Aryak and 58.59629161154313Ly away
+Bennett Orbital in Kigana and 59.40477049709476Ly away
+Thornton Colony in Kigana and 59.40477049709476Ly away
+Baker Port in Wailla Sakh and 59.461786901862446Ly away
+Bunsen Gateway in Wikatabar and 59.79947774907821Ly away
+Smeaton Orbital in LTT 9360 and 59.83424369664916Ly away
+Wye-Delta Station in Carcinus and 61.136845414099504Ly away
+Bayliss Enterprise in Wiljanherbi and 61.143322279501625Ly away
+Hui Horizons in Vedi Di and 61.239109363420695Ly away
+Malenchenko Ring in Warkan and 62.50189059640516Ly away
+Cook Orbital in Chipiapoos and 63.260150803546935Ly away
+Patry Dock in Atfero and 63.300845731415784Ly away
+Nelson Dock in Popoconibo and 64.06226371907646Ly away
+Wolf Horizons in Zmeyang and 64.36413743304574Ly away
+Watson Orbital in LHS 3079 and 64.58047456710503Ly away
+The Victoria Chappell Foundation in Phiagre and 65.1840992641227Ly away
+MacKellar Dock in BD-17 6081 and 66.00298140756598Ly away
+Bus Port in CD-61 6801 and 67.21146374968336Ly away
+Grechko Dock in Abi and 68.83311737002037Ly away
+Reiter Enterprise in HIP 102018 and 70.17145575748732Ly away
+Vlamingh Enterprise in Wak and 71.07012656964247Ly away
+Melnick Gateway in Maramovoy and 72.41397104927336Ly away
+Treshchov Hub in LHS 134 and 72.50013469815073Ly away
+Alas City in LTT 8066 and 73.22752561579901Ly away
+Kube-McDowell Enterprise in Kakas and 73.47483093719917Ly away
+Crown Dock in Nagarlaw and 73.52648199585983Ly away
+Bosch City in LHS 1339 and 73.73112178932652Ly away
+Baade Port in Velabri and 74.03316270218029Ly away
+Merritt Port in Mara and 74.09883734116548Ly away
+Clairaut Port in G 141-52 and 74.63304761883303Ly away
+Kowal City in Zelano and 75.04632033159588Ly away
+Melotte Hub in Zelano and 75.04632033159588Ly away
+Mueller Station in Zelano and 75.04632033159588Ly away
+Riccioli Station in Zelano and 75.04632033159588Ly away
+Spielberg Orbital in Wuikito and 75.14783606748101Ly away
+Baker Holdings in Bhotho and 75.16153177906236Ly away
+Lorentz Dock in Bhotho and 75.16153177906236Ly away
+Dall Ring in Haroingori and 75.85240860134239Ly away
+Crown Ring in Haroingori and 75.85240860134239Ly away
+Rorschach City in Sutekh and 76.01111401055111Ly away
+Kier Enterprise in Eta Sagittarii and 76.02796180723577Ly away
+Coles Orbital in Eta Sagittarii and 76.02796180723577Ly away
+Lanchester Terminal in LTT 95 and 76.09403875715232Ly away
+Narvaez Hub in Tai Quambis and 76.758995299411Ly away
+Amis Dock in Mac Og and 77.12407566301849Ly away
+Nojiri Dock in CD-52 187 and 77.76176182136372Ly away
+Schoenherr Station in CD-52 187 and 77.76176182136372Ly away
+Hynek City in CD-52 187 and 77.76176182136372Ly away
+Carpenter City in Walgal and 78.65983181157331Ly away
+Low Ring in Walgal and 78.65983181157331Ly away
+Gubarev Port in Morronii and 78.68445312806399Ly away
+Martin Enterprise in Omicron Capricorni B and 79.0355191116627Ly away
+Brunel City in Omicron Capricorni B and 79.0355191116627Ly away
+Vesalius Hub in Hoko and 79.17193513171192Ly away
+Bartlett Landing in Hesates and 79.1792061067014Ly away
+Bigourdan Ring in Sowiio and 79.45017970204661Ly away
+Feoktistov Ring in Harpulidna and 79.79757715816001Ly away
+Seddon Ring in Harpulidna and 79.79757715816001Ly away
+Hugh Hub in Any Kutjara and 79.85125943159882Ly away
+Williamson Gateway in Any Kutjara and 79.85125943159882Ly away
+Onizuka Gateway in Ruwachis and 79.90642109876089Ly away
+Cseszneky City in Ruwachis and 79.90642109876089Ly away
+Khan Terminal in Yum Cruang and 81.4542325001439Ly away
+Furukawa Hub in Toxand and 81.82938853569053Ly away
+Cardano Station in Toxand and 81.82938853569053Ly away
+Lyulka Ring in HIP 96880 and 82.14947433071316Ly away
+Curtiss Port in HIP 96880 and 82.14947433071316Ly away
+Cesar Janssen Gateway in HIP 100379 and 82.63872687600832Ly away
+Boming Dock in Narentes and 83.25197656249671Ly away
+Moore Enterprise in Gan and 83.38321618999534Ly away
+Salam Dock in Pethes and 83.91998258199592Ly away
+Agassiz Port in Rutu and 84.38085049161036Ly away
+Cormack Orbital in Rutu and 84.38085049161036Ly away
+Khayyam Enterprise in Rutu and 84.38085049161036Ly away
+Carter City in Marowalan and 84.44272166496944Ly away
+Kuipers Orbital in Marowalan and 84.44272166496944Ly away
+Horch Orbital in LP 621-11 and 84.70467999172183Ly away
+van Rhijn City in Nu Kuni and 84.88713784711439Ly away
+Piazzi Hub in Nu Kuni and 84.88713784711439Ly away
+Bear City in Freng and 84.97432401724359Ly away
+Werber Orbital in Freng and 84.97432401724359Ly away
+Keyes Hangar in Freng and 84.97432401724359Ly away
+Hubble Hub in Uibumisin and 85.3586528090445Ly away
+Walheim Enterprise in Herthe and 85.36332048587965Ly away
+Schoening Orbital in Menguru and 85.72768705689545Ly away
+Parkinson Ring in Menguru and 85.72768705689545Ly away
+Adams Dock in Enawar and 86.01388650604622Ly away
+Chaviano Dock in Hapats and 86.05932841832139Ly away
+Gelfand Gateway in HIP 79969 and 86.26427078496926Ly away
+Titov Survey in Latones and 86.27993705991271Ly away
+Jeremy in LTT 606 and 86.29759216839425Ly away
+Marianne's Journey to Arcadia in LTT 606 and 86.29759216839425Ly away
+Quinn Orbital in Kokoimudji and 86.41685061556282Ly away
+Tem Port in Kokoimudji and 86.41685061556282Ly away
+Gidzenko Dock in Marici and 86.4897821819144Ly away
+Nicollet Dock in Djirbalngan and 86.63443536276438Ly away
+Haipeng Gateway in Perun and 86.67063417400959Ly away
+Ampere Enterprise in 54 Piscium and 86.82670082735207Ly away
+Budarin Terminal in Tsao Wang and 86.86649014076141Ly away
+Edwards Terminal in Erisagirari and 87.43482505736773Ly away
+Bounds Station in HIP 100072 and 87.46978831109345Ly away
+al-Khowarizmi Hub in HIP 100072 and 87.46978831109345Ly away
+KRAMSKI Holding in CD-54 471 and 87.53693974724328Ly away
+Peirce Ring in Parthians and 88.06938626375796Ly away
+Houtman Orbital in Parthians and 88.06938626375796Ly away
+Tudela Platform in Parthians and 88.06938626375796Ly away
+Reed Settlement in Brokpoi and 88.16568763732577Ly away
+Cabral Terminal in EGM 823 and 88.28177544091419Ly away
+Kondratyev City in QQ Pegasi and 88.52849779520152Ly away
+Buchli Station in QQ Pegasi and 88.52849779520152Ly away
+Sukhoi Terminal in Lambda-2 Phoenicis and 88.70045381965359Ly away
+Peltier Vision in Lambda-2 Phoenicis and 88.70045381965359Ly away
+Stevenson Vision in Lambda-2 Phoenicis and 88.70045381965359Ly away
+Friedrich Peters Ring in Pandemonium and 89.08601115109207Ly away
+Froude Orbital in Ross 853 and 89.48469557520716Ly away
+Webb Port in Ross 853 and 89.48469557520716Ly away
+Navigator Dock in Birjorth and 89.62736442139197Ly away
+Payette Orbital in Terminus and 89.87346247815591Ly away
+Kaku Hub in Tibitibi and 90.05211707151865Ly away
+Euler Settlement in Tibitibi and 90.05211707151865Ly away
+Bloch Port in Lushu and 90.1637453556722Ly away
+Galindo Port in Fer Doira and 90.20061191934897Ly away
+Dunyach Port in Fer Doira and 90.20061191934897Ly away
+Lovelace Terminal in Lulunguni and 90.24623975026606Ly away
+Phillips City in Lalande 45292 and 90.50392774625861Ly away
+Feynman City in FT Piscium and 90.60401157819945Ly away
+Cabana Hub in Eme and 90.63683651150066Ly away
+Herbert Co-operative in CD-30 11949 and 91.10615267196557Ly away
+Mikoyan Ring in Jilnytis and 91.12322100458258Ly away
+Neumann Ring in Keraitra and 91.1674337500102Ly away
+New Boracay in Hazel and 91.40154902441479Ly away
+Krikalev Dock in Hazel and 91.40154902441479Ly away
+Mattei Station in HIP 113103 and 91.63637165108078Ly away
+Moore Ring in Allowa and 91.66445901697669Ly away
+Vasquez de Coronado Hub in d Scorpii and 91.76359636145207Ly away
+Wiener Ring in d Scorpii and 91.76359636145207Ly away
+Amnuel Dock in LHS 1097 and 92.67299068836076Ly away
+Comino Gateway in Pamequi and 93.29370729214538Ly away
+Biruni Gateway in Agastariya and 93.39477493080113Ly away
+Riemann Gateway in Badjarans and 93.58254836974146Ly away
+Cremona Settlement in LHS 184 and 93.94980271233942Ly away
+Tarski Port in LHS 184 and 93.94980271233942Ly away
+Walker Terminal in LHS 1228 and 94.00268550851354Ly away
+Cooper City in LHS 1228 and 94.00268550851354Ly away
+Jenner Hub in LP 404-6 and 94.00638899497736Ly away
+Dorsey Terminal in 31 Epsilon Librae and 94.21406497472923Ly away
+Steinmuller Dock in 31 Epsilon Librae and 94.21406497472923Ly away
+Frimout Terminal in Wolf 1326 and 94.2509843284143Ly away
+Wagner Port in HIP 103311 and 94.66968685579877Ly away
+Hovgaard Horizons in Pinibo and 95.39517418513633Ly away
+Rothman Station in Pinibo and 95.39517418513633Ly away
+Cassidy Port in Jok Isuani and 95.79422832137384Ly away
+Hovgaard Orbital in Birhepri and 96.08110689184684Ly away
+Alexander Station in Nambikuara and 96.27374909924823Ly away
+Aristotle Terminal in Picaurukan and 97.14023167243838Ly away
+Clerk Station in Picaurukan and 97.14023167243838Ly away
+Gamow Hub in Picaurukan and 97.14023167243838Ly away
+Hennen Station in HR 8514 and 97.14530836587015Ly away
+Coleman Hub in HR 8514 and 97.14530836587015Ly away
+Horch Orbital in Bered and 97.33621559926962Ly away
+Carpenter Gateway in u Carinae and 97.57082263508646Ly away
+Burckhardt Station in Artemis and 97.83967773384425Ly away
+Laphrian Shipyard in Artemis and 97.83967773384425Ly away
+Ali Survey in Changda and 97.87689573515294Ly away
+Fettman Enterprise in UBV 8670 and 98.36465558700442Ly away
+Moseley Hub in UBV 8670 and 98.36465558700442Ly away
+Palitzsch Terminal in LTT 9697 and 99.15644697427646Ly away
+Gregory Ring in LFT 90 and 99.37877842659618Ly away
+Kowal Dock in Mictlan and 99.59216150286377Ly away
+Myasishchev Orbital in Mictlan and 99.59216150286377Ly away
+South Hub in Mictlan and 99.59216150286377Ly away
+McCaffrey Installation in Ngari and 99.83469246866292Ly away
+Bergerac Terminal in HIP 78551 and 99.98563373367696Ly away
+Pacheco City in Ayethi and 100.08715440336238Ly away
+Muninn's Nest in Ayethi and 100.08715440336238Ly away
+Bohrmann Orbital in Balis and 100.10661309012008Ly away
+Unsold Orbital in Kavalliyala and 100.37849270075239Ly away
+Ziewe Gateway in Kavalliyala and 100.37849270075239Ly away
+Sei Vision in Kavalliyala and 100.37849270075239Ly away
+Calatrava Dock in Trigeno and 100.59610415853588Ly away
+Heceta Terminal in Ghekree and 100.71524485833811Ly away
+Spring Plant in LFT 42 and 100.83668049282711Ly away
+Mastracchio Hub in Eitha and 100.84737171990403Ly away
+Irens Dock in Manite and 101.23491882281775Ly away
+Pinzon Orbital in Manite and 101.23491882281775Ly away
+Flammarion Terminal in Vishvamitra and 102.34791976238452Ly away
+Starport Alpha in BU 741 and 102.50889347850507Ly away
+Oluwafemi Hub in LP 410-93 and 102.57431566613057Ly away
+Veach Orbital in LP 410-93 and 102.57431566613057Ly away
+Stasheff Hub in Bhattra and 102.61385635295557Ly away
+Baillaud Ring in HIP 104504 and 102.65524638017776Ly away
+Serre Dock in Attacates and 102.77872735578603Ly away
+Mitchell City in Attacates and 102.77872735578603Ly away
+Clapperton Dock in Linghus and 103.09049138529944Ly away
+Caselberg Dock in 53 chi Ceti and 103.18079456559491Ly away
+Filippenko Port in Gunavian and 103.46725874793678Ly away
+Fox Port in Gunavian and 103.46725874793678Ly away
+Fisher Orbital in Ngandowa and 103.51510966852858Ly away
+McAllaster Port in HR 6680 and 103.55145724167768Ly away
+Carlisle City in Upsilon Andromedae and 103.69122017135781Ly away
+Fidalgo Station in Upsilon Andromedae and 103.69122017135781Ly away
+al-Haytham City in Belobog and 103.98319989005435Ly away
+Kingsbury Ring in Belobog and 103.98319989005435Ly away
+Cooper Settlement in G 173-53 and 104.0913107639754Ly away
+Hopkins City in Adityan and 104.49595349521914Ly away
+Huygens Enterprise in Adityan and 104.49595349521914Ly away
+Artyukhin Ring in Autahenetsi and 104.55075490670787Ly away
+Gould Port in Tamar and 104.83549240953657Ly away
+Malpighi Station in Caudjabe and 105.01014180931526Ly away
+Burton Terminal in Manukan and 105.01500078857782Ly away
+Wellman Gateway in Jibitoq and 105.13802312317841Ly away
+Huberath Orbital in Ross 140 and 105.34075566791563Ly away
+Soukup Hub in Ross 140 and 105.34075566791563Ly away
+Gyton's Eyrie in Gyton's Hope and 105.35929042151433Ly away
+Iskareen in Gyton's Hope and 105.35929042151433Ly away
+Arkwright Hub in Mazu and 105.50471146173994Ly away
+Kuipers Horizons in Albast and 105.7347155768861Ly away
+Gemar Station in Condi and 106.12338503629867Ly away
+Korniyenko Terminal in LTT 11103 and 106.15259321785314Ly away
+Gustav Sporer Dock in Yaribon and 106.27673376908513Ly away
+Ludwig Struve Hub in Siddha and 106.5740371320567Ly away
+Blaauw Orbital in Siddha and 106.5740371320567Ly away
+Siddha Port in Siddha and 106.5740371320567Ly away
+Gunter Station in Siddha and 106.5740371320567Ly away
+Langley Dock in Siddha and 106.5740371320567Ly away
+Wallerstein Terminal in Siddha and 106.5740371320567Ly away
+Mille Gateway in Fengiri and 106.58657627575576Ly away
+Rothman Station in HIP 94926 and 106.832420246033Ly away
+McCarthy Orbital in LP 711-43 and 107.19834584340609Ly away
+Niemeyer Dock in Beta Volantis and 107.3169407933808Ly away
+Oswald Port in HIP 94905 and 107.37720548520761Ly away
+Godel Dock in Quivira and 107.63645500160483Ly away
+Stapledon Dock in Quivira and 107.63645500160483Ly away
+Isherwood Station in Novas and 107.76118343935352Ly away
+Lowry City in Novas and 107.76118343935352Ly away
+Maclaurin Enterprise in HIP 79888 and 108.014326487566Ly away
+Kirchoff Hub in G 35-15 and 108.40980373967568Ly away
+Abernathy Ring in Chac Cimih and 108.53788581066982Ly away
+Burnet Hub in Shokwa and 109.02671780491468Ly away
+Goeppert-Mayer Orbital in Tjupali and 109.29537280061311Ly away
+Boe Hub in Turing and 109.6592823390934Ly away
+Low Orbital in LHS 2764a and 109.82212180385152Ly away
+Loewy Vision in Kongkhulym and 109.83813552507617Ly away
+Hui Ring in BD+33 256 and 110.02253409103291Ly away
+Weil City in BD+33 256 and 110.02253409103291Ly away
+Ridley Scott in Zaonce and 110.0847418610999Ly away
+Brosnatch Orbital in Nimboja and 110.20760327814274Ly away
+Wiley Port in Teveri and 110.31863031833063Ly away
+Kidinnu Hub in Jamariges and 110.42978449986896Ly away
+Naglotech in Dakvar and 110.82619416230082Ly away
+Thornton Platform in Breucosia and 110.9548445948283Ly away
+al-Din Terminal in Breucosia and 110.9548445948283Ly away
+Fehrenbach Terminal in Chedita and 111.16479356399219Ly away
+Arai Hub in Chedita and 111.16479356399219Ly away
+Simpson Orbital in Djinajeri and 111.3979967139221Ly away
+Flettner Horizons in Pyemmairre and 111.51823789323655Ly away
+Sinclair Gateway in GD 279 and 111.55692825722434Ly away
+Volynov Enterprise in GD 279 and 111.55692825722434Ly away
+Levinson Gateway in Kurichchan and 111.65207363446055Ly away
+Pickering Installation in Coqueelgovi and 111.67430934278259Ly away
+Tereshkova Enterprise in Chemaluk and 111.77346125366701Ly away
+Hahn Orbital in Bandizel and 111.95406162378612Ly away
+Hubble Hub in Bandizel and 111.95406162378612Ly away
+Ryazanski City in Bandizel and 111.95406162378612Ly away
+Clarke Port in LTT 1739 and 112.14946256280054Ly away
+Herreshoff Gateway in Kwatee and 112.17876881065774Ly away
+Wilmore Dock in Mortel and 112.32919759711854Ly away
+Kimbrough Dock in Mortel and 112.32919759711854Ly away
+Murdoch Orbital in Mortel and 112.32919759711854Ly away
+Mandel Orbital in Zac Cechaqu and 112.44030968557273Ly away
+Benyovszky Station in BD+29 2405 and 112.57225544206041Ly away
+Kennan Orbital in CD-24 10619 and 113.29113318956166Ly away
+Fozard Ring in Kinago and 113.30907847840349Ly away
+Langford Terminal in Krivia and 113.69424285941218Ly away
+Ejeta Ring in Vendemo and 113.97135485095586Ly away
+Thomas Kidd Ring in Proxima and 114.03888882334175Ly away
+Afanasyev Station in Waraswarre and 114.04514422751632Ly away
+Reiter Terminal in LHS 1706 and 114.12504706324331Ly away
+Hiraga Gateway in HR 7327 and 114.14867036156181Ly away
+Bobko Terminal in Vetta and 114.47364683765649Ly away
+Nomen Gateway in HIP 117865 and 114.52999658250016Ly away
+Merritt Dock in CD-40 395 and 114.66638514757715Ly away
+Marshburn Hub in Hang Po and 114.7461787898621Ly away
+Laveykin Orbital in Tau-3 Eridani and 115.3326794673782Ly away
+Scott Settlement in Warkawa and 115.34803398980192Ly away
+Ray Hub in Warkawa and 115.34803398980192Ly away
+Clervoy Dock in Satva and 115.61028622596693Ly away
+Pogue Hub in Satva and 115.61028622596693Ly away
+Papin Orbital in HR 5482 and 115.66557987226581Ly away
+Frazetta Gateway in Chaaratisa and 116.00316957550126Ly away
+Rolland Vision in Bungk and 116.08695303117617Ly away
+Slipher Vision in Kadrusa and 116.18969369903253Ly away
+Adams Hub in Kammamalan and 116.25153308800921Ly away
+Lee Enterprise in Myrbat and 116.44725368433984Ly away
+Pilcher Port in Rutujil and 116.52545909451504Ly away
+Surayev Hub in NLTT 8084 and 116.6200008976805Ly away
+Behnisch Terminal in HR 8202 and 117.41651372491222Ly away
+Heiles Orbital in HR 8202 and 117.41651372491222Ly away
+Zaschka Hub in HR 8202 and 117.41651372491222Ly away
+Hermaszewski Dock in Hamal and 117.5254086556924Ly away
+Fossum City in Walmiri and 117.802594079566Ly away
+Greenland City in FT Ceti and 117.82774685823158Ly away
+Jaufurally Orbital in Stafkarl and 118.00523442442076Ly away
+Kratman Port in Prim and 118.05675938928698Ly away
+Nicolet City in Prim and 118.05675938928698Ly away
+Kagan Survey in Prim and 118.05675938928698Ly away
+Good Enterprise in BD-15 447 and 118.35329295429426Ly away
+Gutierrez Port in BD-15 447 and 118.35329295429426Ly away
+Banks Hub in BD-15 447 and 118.35329295429426Ly away
+Bothezat City in Dievat and 118.35805795471849Ly away
+Lowry Ring in Lalande 4268 and 118.57258539735271Ly away
+Schottky Terminal in Fidena and 118.57475967849355Ly away
+Garay City in m Tauri and 118.6450317320009Ly away
+Plexico Ring in Zaraluvul and 118.7800743167283Ly away
+King Orbital in Zaraluvul and 118.7800743167283Ly away
+Liska Station in V374 Andromedae and 119.04370750642387Ly away
+Gooch Orbital in HR 5349 and 119.4399814956763Ly away
+Szilard Gateway in Legees and 120.10203181826276Ly away
+Sugie Terminal in Gunwin and 120.48916412638525Ly away
+Ramon City in Paesia and 120.50575793426843Ly away
+Lloyd Port in Beta Caeli and 120.56097718063668Ly away
+Yamazaki Orbital in Sotidji and 120.97827155113434Ly away
+Kondakova Platform in Sotidji and 120.97827155113434Ly away
+Yakovlev Port in Trumuye and 121.01930776352383Ly away
+Giles Station in LTT 10462 and 121.03256922208998Ly away
+Baydukov Terminal in Purusha and 121.08012020068571Ly away
+Holdstock Hub in Ross 750 and 121.50763141542798Ly away
+Malerba Orbital in Anotchadiae and 121.79949985144644Ly away
+Crown Dock in Anotchadiae and 121.79949985144644Ly away
+Pawelczyk Hub in Anotchadiae and 121.79949985144644Ly away
+Secchi Orbital in Cai Syraze and 121.82123012584876Ly away
+Drake Hub in Cai Syraze and 121.82123012584876Ly away
+Marcy Mines in Cai Syraze and 121.82123012584876Ly away
+Rosse Orbital in Miroman and 122.02094626794614Ly away
+Whittle Vision in Miroman and 122.02094626794614Ly away
+Vonarburg City in Kung Te and 122.15110551331495Ly away
+Bounds Gateway in Kung Te and 122.15110551331495Ly away
+Padalka Orbital in Herebitinta and 122.96471562632307Ly away
+Low Orbital in Tjupanabo and 122.97604012697961Ly away
+Younghusband Colony in Ritila and 123.02181590067674Ly away
+Walter Ring in LHS 2150 and 123.0366831096523Ly away
+Kelly Dock in HR 4803 and 123.39406672577495Ly away
+Olivas Orbital in HR 4803 and 123.39406672577495Ly away
+Filipchenko Vision in Takak and 123.79681485073637Ly away
+White Station in Janjiwa and 123.90450424369165Ly away
+Bunch Survey in Janjiwa and 123.90450424369165Ly away
+McMullen Port in Janjiwa and 123.90450424369165Ly away
+Melvin Terminal in HIP 76292 and 124.15018941286397Ly away
+Luiken City in Reshas and 124.18472411341502Ly away
+Bennett Gateway in 53 Virginis and 124.42433851793226Ly away
+Grover Terminal in Imantana and 124.82037875733674Ly away
+Aldrin Vision in Meza Virs and 125.19400569715788Ly away
+Sullivan Settlement in Meza Virs and 125.19400569715788Ly away
+Wagner Installation in Bald and 125.95189899074568Ly away
+Jakes Ring in LHS 1453 and 126.29228097700587Ly away
+Bryant Hub in LP 442-37 and 126.65661624052649Ly away
+Cleve City in LP 442-37 and 126.65661624052649Ly away
+Kraepelin City in Lakurbal and 126.68229669876924Ly away
+Molina Hub in Lakurbal and 126.68229669876924Ly away
+Bondar Gateway in Kareldt and 126.93223385802166Ly away
+Levi-Strauss Orbital in Xamen Ek and 127.06782222621311Ly away
+Brunel Dock in Xamen Ek and 127.06782222621311Ly away
+Fulton Hub in Xamen Ek and 127.06782222621311Ly away
+Linenger Gateway in Xamen Ek and 127.06782222621311Ly away
+McMonagle Ring in HD 222582 and 127.08476348238997Ly away
+McAllaster Terminal in NLTT 34715 and 127.49918045079741Ly away
+Papin Orbital in BD-01 2518 and 128.0495242633197Ly away
+Arrhenius Gateway in Picuni and 128.2137840252073Ly away
+Aikin Ring in LP 349-61 and 128.39392889292895Ly away
+Napier Ring in HIP 81998 and 128.5063228016427Ly away
+Ahmed Dock in Bielonti and 128.5874960508408Ly away
+Spring Ring in GCRV 52424 and 128.72618863551037Ly away
+Leckie Terminal in Sapill and 128.7417548937601Ly away
+Stapledon Dock in Khong Wang and 128.859214903805Ly away
+Onufrienko Installation in Hreip and 128.90464392938875Ly away
+White Terminal in V898 Herculi and 128.933716770721Ly away
+Bhabha Gateway in 45 Theta Ceti and 129.1338180677316Ly away
+Goddard Ring in 45 Theta Ceti and 129.1338180677316Ly away
+Sagan Ring in Nuwach and 129.1553010792627Ly away
+Semeonis Hub in Nuwach and 129.1553010792627Ly away
+Chaudhary Terminal in HIP 57352 and 129.57776984305602Ly away
+Brothers Hub in Wi and 129.64678577774305Ly away
+Salgari Port in Wi and 129.64678577774305Ly away
+Bounds Station in Hera and 129.95827906245526Ly away
+Goulart Dock in Hera and 129.95827906245526Ly away
+Wrangell Dock in Lotian and 130.17979603945844Ly away
+Gantt Station in 14 Geminorum and 130.4413219672451Ly away
+Savitskaya Hub in Bhrima and 130.6554166141802Ly away
+Fullerton Ring in Bhrima and 130.6554166141802Ly away
+Jacquard Terminal in Bhrima and 130.6554166141802Ly away
+Murray Horizons in Lepontine and 131.66402703709545Ly away
+Skripochka Hub in Sapiety and 131.6950786855758Ly away
+Ito City in Sapiety and 131.6950786855758Ly away
+Humboldt Station in Sapiety and 131.6950786855758Ly away
+Amedeo Plana Orbital in Jaaka and 131.84327965666282Ly away
+Solovyov Gateway in Ch'ingsonde and 132.3519109054059Ly away
+Tall Dock in Antove Den and 132.4814440131617Ly away
+Vinogradov Enterprise in LP 355-65 and 132.64054309250622Ly away
+Boulton Port in LP 355-65 and 132.64054309250622Ly away
+Redi Port in Chaiya and 132.69758263623342Ly away
+Battuta Port in Jafnhau and 132.6999007982862Ly away
+Braun Gateway in Wolf 631 and 132.8567242546929Ly away
+Spring Vision in Kuanes and 132.86813908086657Ly away
+Caidin Ring in Liburumni and 133.08427707542128Ly away
+Flettner Vision in NLTT 8234 and 133.11297994443478Ly away
+Apt Orbital in Yoruba and 133.15157451894814Ly away
+Kirchoff Port in Lalande 27958 and 133.15758477387797Ly away
+Hiyya Terminal in Cibaiawar and 133.20270619435627Ly away
+Stephenson Port in Bagalis and 133.71379474927036Ly away
+Crowley Hub in LHS 331 and 133.7237853982978Ly away
+Wilcutt Enterprise in BD+19 2929 and 134.02995671444125Ly away
+Perga City in Kuk and 134.4137807411316Ly away
+Eudoxus Dock in Kuk and 134.4137807411316Ly away
+Veblen City in Kuk and 134.4137807411316Ly away
+Bamford Ring in 38 Virginis and 134.6249020716914Ly away
+Burnell Colony in 38 Virginis and 134.6249020716914Ly away
+Butler Dock in LP 350-75 and 134.87329485136226Ly away
+Goeppert-Mayer Station in Xuane and 135.04678370499056Ly away
+So-yeon Port in Tao Ti and 135.12318959818666Ly away
+Schlegel Ring in Tao Ti and 135.12318959818666Ly away
+Chomsky Ring in BD+08 1303 and 135.3128031174434Ly away
+Babbage Orbital in Lopocares and 135.58416003768656Ly away
+Ghez Dock in Jatar and 135.60985658544516Ly away
+Yaping Hub in Kaluhet and 135.6637329484192Ly away
+Foda Orbital in K Camelopardalis and 135.81958966769116Ly away
+Payette Hub in K Camelopardalis and 135.81958966769116Ly away
+Kumo City in Pegasi Sector PN-T c3-14 and 135.97017567053078Ly away
+Georg Bothe Gateway in Galti and 136.37019497722Ly away
+Miletus Dock in Cocorix and 136.4616010263968Ly away
+Franklin Terminal in HIP 80096 and 136.54613031179244Ly away
+Watts Gateway in Putama and 136.7402447388844Ly away
+Leberecht Tempel Orbital in Maiden and 136.8331057461059Ly away
+Hoerner Dock in Maiden and 136.8331057461059Ly away
+Heinkel Terminal in Maiden and 136.8331057461059Ly away
+Dyr Terminal in Maiden and 136.8331057461059Ly away
+Kawanishi Station in Maiden and 136.8331057461059Ly away
+Zebrowski Ring in G 224-46 and 137.1207767695144Ly away
+Ron Hubbard Ring in MCC 467 and 137.55310764164872Ly away
+Fuca Ring in MCC 467 and 137.55310764164872Ly away
+Hooke Enterprise in Snoquot and 137.62971509293516Ly away
+Dana Gateway in Wilingura and 137.73347011188855Ly away
+Burnham Dock in HIP 95973 and 137.91815323657542Ly away
+Scalzi Station in HIP 95973 and 137.91815323657542Ly away
+Langford Orbital in Lepontu and 138.13954250367632Ly away
+Gottlob Frege Dock in Grebo and 138.24818107415555Ly away
+Willis City in Julanggarri and 138.39569416734938Ly away
+Bella Gateway in Wolf 324 and 138.47536163971554Ly away
+Watson Hub in Macoceleuta and 138.68477492816217Ly away
+Camarda Dock in StKM 1-578 and 138.68527840153942Ly away
+Lanier Colony in Zelada and 139.07921950052423Ly away
+Trujillo Station in HIP 103208 and 139.18820512282102Ly away
+Priestley Terminal in Mendindui and 139.19922702618538Ly away
+Duke Hub in Al-Qaum and 139.2243089518673Ly away
+Cormack Orbital in Al-Qaum and 139.2243089518673Ly away
+Redi Enterprise in Kutnigi and 139.2605822392862Ly away
+Shaikh Dock in HDS 1879 and 139.38402787465463Ly away
+Napier Terminal in Hsuani and 139.70620330603612Ly away
+Pordenone Vision in Hsuani and 139.70620330603612Ly away
+Norgay Dock in Hsuani and 139.70620330603612Ly away
+Zoline Enterprise in Gliese 384 and 140.1783392570871Ly away
+Smith Port in Khowatsu and 140.72600886230128Ly away
+Debye City in Dalla and 140.75371192929515Ly away
+Lawhead Ring in Wulwul and 140.96842440662908Ly away
+Kroehl Gateway in Wulwul and 140.96842440662908Ly away
+Hausdorff City in Qi Lisu and 141.00030820555855Ly away
+Tuan Platform in Kamchata and 141.7056429991851Ly away
+Krikalev Gateway in Kamchata and 141.7056429991851Ly away
+Papin Orbital in Regulus and 141.72196454457932Ly away
+Taylor Station in Malangga and 141.74668274888305Ly away
+Popper Dock in Breksta and 142.31025607585352Ly away
+Fisher Ring in Uchang and 142.31465811385172Ly away
+Potter Gateway in LHS 1743 and 142.448239640097Ly away
+Jemison Ring in LHS 1743 and 142.448239640097Ly away
+Johri Settlement in Autroch and 142.62024463479054Ly away
+Teller Terminal in 78 Ursae Majoris and 142.62675968458723Ly away
+Rominger Dock in 78 Ursae Majoris and 142.62675968458723Ly away
+Arrhenius Orbital in 78 Ursae Majoris and 142.62675968458723Ly away
+Hewish Enterprise in Kornephoros and 142.63929937630266Ly away
+Makarov Port in Kornephoros and 142.63929937630266Ly away
+Ayton Innes Terminal in Han Crua and 142.7872310795857Ly away
+Laval Port in Lalande 22701 and 143.16790091204976Ly away
+Leeuwenhoek Hub in Lalande 22701 and 143.16790091204976Ly away
+Melroy Gateway in Lalande 22701 and 143.16790091204976Ly away
+Trevithick Port in Lalande 22701 and 143.16790091204976Ly away
+Macgregor Orbital in Kakmbutan and 143.20941151640488Ly away
+Rosseland Station in Nawa and 143.4526340055316Ly away
+Avogadro Vision in Karis and 143.45735497112895Ly away
+Bradley Dock in Ross 777 and 143.6439996408221Ly away
+Hauck Gateway in Djeranses and 143.71200924613956Ly away
+Clark Terminal in Megrez and 143.7632364829844Ly away
+Clement Terminal in Megrez and 143.7632364829844Ly away
+McClintock Terminal in Trinar and 143.8063578381968Ly away
+Gibson Gateway in Verovichili and 143.99003397045402Ly away
+Blackwell City in Verovichili and 143.99003397045402Ly away
+Moore Terminal in BD+31 2290 and 144.10931655235723Ly away
+Budrys Dock in BD+31 2290 and 144.10931655235723Ly away
+Sitter Port in Ndjala and 144.16463976778425Ly away
+Forrester Port in Marana and 144.25797475789685Ly away
+Slusser Station in Ehlangai and 144.25886156706284Ly away
+Whitworth Station in Loha and 144.33089491360641Ly away
+Grissom Dock in LTT 3290 and 144.553852962313Ly away
+Reiter Ring in LTT 3290 and 144.553852962313Ly away
+Feustel Park in Komotae and 144.98677876146155Ly away
+Pippin Dock in Arimil and 145.05077236092194Ly away
+Schachner Enterprise in Yashas and 145.10402047432214Ly away
+O'Leary Ring in Deiva and 145.12012131119172Ly away
+Herreshoff Orbital in Deiva and 145.12012131119172Ly away
+Lindbohm Port in Deiva and 145.12012131119172Ly away
+Leichhardt Enterprise in LAWD 52 and 145.38020264228723Ly away
+Coles Gateway in LAWD 52 and 145.38020264228723Ly away
+Rutherford Ring in Zary Orany and 145.53222970466885Ly away
+Treshchov Orbital in Suyarang and 145.61929978114165Ly away
+Shaw Terminal in Suyarang and 145.61929978114165Ly away
+Pierce City in Girya Gu and 145.82781611587345Ly away
+Murakami Terminal in Gliese 9043 and 146.7104330709817Ly away
+Jones Port in Beetrix and 147.0291245861258Ly away
+Still Dock in Volithigga and 147.23909658273513Ly away
+Galouye Orbital in Svarizic and 147.34074095548897Ly away
+Lyakhov Orbital in Ogmiusitou and 147.35258125708216Ly away
+Pytheas Gateway in Dhanhopi and 147.49539518765494Ly away
+Cori Colony in Nu Wana and 147.57437544866147Ly away
+Bowersox Station in NLTT 18561 and 148.2778549400584Ly away
+Clark City in Cigui and 148.29915263370523Ly away
+Alexandria Terminal in NLTT 33782 and 148.6438598473294Ly away
+Mayer Terminal in 5 Puppis and 148.7387403826757Ly away
+Aleksandrov Port in 5 Puppis and 148.7387403826757Ly away
+Curie Enterprise in 5 Puppis and 148.7387403826757Ly away
+Pogue Port in Hiralarsh and 148.77593326984206Ly away
+Rasmussen Enterprise in Bhado and 148.90837813274644Ly away
+Dutton Gateway in HR 2883 and 149.01493606976115Ly away
+Andersson Station in Garinanni and 149.01593219141031Ly away
+Albategnius City in Damontae and 149.04337534548458Ly away
+Shull Station in Chandra and 149.215752587696Ly away
+Bisson Dock in Yavas and 149.21877945025886Ly away
+Tennyson d'Eyncourt Dock in Yavas and 149.21877945025886Ly away
+Surayev Horizons in Sudii and 149.3512696893217Ly away
+Morgan Terminal in Inheimagni and 149.42506352474808Ly away
+Pontes City in HIP 65956 and 149.5289021498018Ly away
+Sabine Gateway in Adenets and 149.78610726528512Ly away
+Grabe Dock in LTT 13380 and 149.95302975536205Ly away
+Barry Gateway in Jita Ten and 150.0787846484722Ly away
+Dupuy de Lome Station in StKM 1-1118 and 150.14467307088353Ly away
+Smith Terminal in Bakabienil and 150.3871306412221Ly away
+Lawrence Ring in Ross 332 and 150.50348768280256Ly away
+Narita Ring in BD+03 1552 and 150.73239817429763Ly away
+Horowitz Gateway in Tamalhikas and 151.01162452668171Ly away
+Herbert Station in Kaunan and 151.16853436231364Ly away
+Savitskaya Gateway in Dao Zi and 151.76519307181405Ly away
+Coleman Orbital in Dao Zi and 151.76519307181405Ly away
+Bohr Gateway in Dao Zi and 151.76519307181405Ly away
+Phillips Orbital in Vukurnir and 151.78725924896497Ly away
+Lefschetz Gateway in HIP 2725 and 151.79099078276187Ly away
+Kiernan Dock in HIP 2725 and 151.79099078276187Ly away
+Ingstad City in Ti Wa and 151.84171767522423Ly away
+Lu Terminal in Atorii and 151.88086729921744Ly away
+Landsteiner Orbital in Pentu and 151.8883835409657Ly away
+Wrangell Dock in NLTT 16389 and 151.89359775534484Ly away
+Manning Enterprise in Wich and 152.23863360691334Ly away
+Lambert City in Wich and 152.23863360691334Ly away
+Norton Park in Wich and 152.23863360691334Ly away
+Lousma Enterprise in Wulpurna and 152.28855089721947Ly away
+Favier Landing in Wulpurna and 152.28855089721947Ly away
+Roberts Port in Laiawawal and 152.29888441913323Ly away
+al-Khayyam Ring in Opila and 152.56192710359457Ly away
+Temple Dock in Opila and 152.56192710359457Ly away
+Kennedy Port in Opila and 152.56192710359457Ly away
+Hayden Gateway in Opila and 152.56192710359457Ly away
+Baird Orbital in Opila and 152.56192710359457Ly away
+Peirce Orbital in Opila and 152.56192710359457Ly away
+Lawson Terminal in Dazhbogati and 152.6791372300502Ly away
+Gardner Platform in BD+72 545 and 153.08213047862574Ly away
+Varthema Enterprise in BD+72 545 and 153.08213047862574Ly away
+MacCurdy Terminal in Fonga and 153.3840983955801Ly away
+Andersson Ring in Hayar and 153.86558790263987Ly away
+Remec Station in Hayar and 153.86558790263987Ly away
+Laue Station in Shana Bei and 154.01334788947676Ly away
+Barratt Hub in Shana Bei and 154.01334788947676Ly away
+Wetherbee Orbital in Shana Bei and 154.01334788947676Ly away
+EFS Archangel in Shana Bei and 154.01334788947676Ly away
+MacKellar Dock in HIP 43310 and 154.2058093608182Ly away
+Virtanen Terminal in LP 552-48 and 154.28480411644563Ly away
+Moore Orbital in Du Shenge and 154.34921659685384Ly away
+Reisman Port in Padhyas and 154.44486336655066Ly away
+Chapman Terminal in Padhyas and 154.44486336655066Ly away
+Bartoe Hub in 13 Trianguli and 154.84401803710404Ly away
+Fisher Port in Nakula and 155.2655927656704Ly away
+Crouch Port in Nakula and 155.2655927656704Ly away
+Macarthur Enterprise in Nakula and 155.2655927656704Ly away
+Rechtin Vision in HIP 12779 and 155.32602116697157Ly away
+Helms Orbital in Giguen and 155.3427944549167Ly away
+Henry Dock in Giguen and 155.3427944549167Ly away
+Stein Terminal in Kharaitis and 155.5877120238372Ly away
+Linteris Port in HIP 28774 and 155.61782739495177Ly away
+Bisson Dock in NLTT 16391 and 155.70338763776144Ly away
+Brackett Ring in Camaitsogo and 155.7834973508908Ly away
+Delbruck Enterprise in Parta and 156.180390744565Ly away
+Strekalov Enterprise in Parta and 156.180390744565Ly away
+Shargin Port in Parta and 156.180390744565Ly away
+Polyakov Ring in NN 3365 and 156.22185058935418Ly away
+Marques Port in Tvasu and 156.27475428912055Ly away
+McCoy Installation in Suss and 156.61310621739963Ly away
+Landsteiner Orbital in Mishtra and 156.85805747653674Ly away
+Krylov Hub in Iteliuona and 157.18461726978884Ly away
+Humboldt Hub in Beledos and 157.2806446193396Ly away
+Binder Orbital in Babas and 157.37110300973302Ly away
+Jones Park in Babas and 157.37110300973302Ly away
+Grant Terminal in Alfheim and 157.45417550135818Ly away
+Julian Terminal in Soholia and 157.6823132569487Ly away
+Kyoto Park in Soholia and 157.6823132569487Ly away
+Serebrov Horizons in Zhang Fei and 157.73547006182534Ly away
+Thoreau Enterprise in 79 Ceti and 157.85999903989293Ly away
+Burke Hub in Katocudatta and 157.9626977079953Ly away
+Heyerdahl Co-operative in Bidiae and 158.48633677800905Ly away
+Korzun Ring in Coratha and 158.6444469462294Ly away
+Isherwood Dock in Larri and 158.71090500399617Ly away
+Sarrantonio Colony in Larri and 158.71090500399617Ly away
+Perga Landing in Larri and 158.71090500399617Ly away
+Tevis Gateway in HR 8845 and 158.9073592635816Ly away
+Bramah City in Lalande 13198 and 158.93334024245826Ly away
+McKee Orbital in Tefenhua and 158.937512288635Ly away
+Mattingly Hub in Kandiil and 159.02980385960677Ly away
+Ritchey Landing in Khep No Zi and 159.24712087762373Ly away
+Komarov Ring in Mbetani and 159.27211752806892Ly away
+Snyder Vision in Hermoduroua and 159.7554802708267Ly away
+Denton Dock in Praecipua and 159.7828146314944Ly away
+Williams Terminal in Yaricans and 160.11834307493473Ly away
+Key Terminal in Yaricans and 160.11834307493473Ly away
+Chilton Port in HR 1594 and 160.12149317978833Ly away
+Barbosa Orbital in Djiwal and 160.24331170227512Ly away
+Payne City in Djiwal and 160.24331170227512Ly away
+Heyerdahl Hub in Ruhanti and 160.24861361042255Ly away
+Goulart City in Ross 274 and 160.28877139205665Ly away
+Neumann Terminal in 8 Gamma Coronae Borealis and 160.9338227735239Ly away
+Khayyam Orbital in Armod and 161.127406159303Ly away
+Celsius Gateway in Baila and 161.1620914686903Ly away
+Jenner Hub in Waruts and 161.19316767371842Ly away
+vo Ring in Snotricopa and 161.26247832047758Ly away
+Low Orbital in LTT 12696 and 162.4631749139632Ly away
+Broglie Enterprise in Hamoco and 162.48743340832544Ly away
+Kubasov City in Anumclaw and 162.64606716444914Ly away
+Zudov Survey in Anumclaw and 162.64606716444914Ly away
+Akiyama Gateway in Menutes and 162.64670060825088Ly away
+Bernoulli Dock in Menutes and 162.64670060825088Ly away
+Scully-Power Dock in Menutes and 162.64670060825088Ly away
+Thurston Dock in 58 Epsilon Herculis and 162.79101645687484Ly away
+Lopez de Haro Horizons in Korotep and 162.7994896433186Ly away
+Bolger Port in HIP 90190 and 163.00756668595173Ly away
+Card Dock in Wike Mandji and 163.11303536102656Ly away
+Carrasco Ring in Wike Mandji and 163.11303536102656Ly away
+Boyle Orbital in BD+05 1146 and 163.55044197528937Ly away
+Melvin Dock in BD+05 1146 and 163.55044197528937Ly away
+Perrin Ring in Lumbla and 163.62248732791895Ly away
+al-Khayyam Orbital in Mahari and 163.70635152995743Ly away
+Wiberg Station in Kioskurber and 163.86345663959062Ly away
+Tarelkin City in HIP 62160 and 163.94785875584043Ly away
+McIntyre Port in Apotenile and 164.08615900838498Ly away
+Wilson Port in Kvash and 164.37949435395674Ly away
+Wiley Station in Kvash and 164.37949435395674Ly away
+Schlegel Gateway in Kvash and 164.37949435395674Ly away
+Bova City in Rio Pahads and 164.63105946991746Ly away
+Cantor Gateway in Tlapana and 164.70387726917664Ly away
+Sladek Port in Tlapana and 164.70387726917664Ly away
+Delany Enterprise in Tlapana and 164.70387726917664Ly away
+King Port in Tlapana and 164.70387726917664Ly away
+Baudin Terminal in Tlapana and 164.70387726917664Ly away
+Shalatula Ring in Holvandalla and 164.79356463561464Ly away
+Alvarez de Pineda Terminal in HIP 85064 and 164.9266083226491Ly away
+Debye Gateway in BD+23 296 and 165.01682265094217Ly away
+Vasquez de Coronado Dock in Muri and 165.06264790792312Ly away
+Maler Colony in Muri and 165.06264790792312Ly away
+Gibson Landing in Muri and 165.06264790792312Ly away
+Lorrah Dock in Silintae and 165.10247173157342Ly away
+Gunn Station in BD+28 413 and 165.15419523319716Ly away
+Sinisalo Ring in Tsohave and 165.27972855699818Ly away
+Goddard Hub in HR 3499 and 165.3252623854337Ly away
+Nicholson Station in HIP 83425 and 165.4742356267283Ly away
+Gardner Horizons in Kremata and 165.63555096110105Ly away
+Flagg Station in Naganjin and 165.6507939820241Ly away
+Garneau Gateway in Siro and 166.12286903731075Ly away
+Haignere Orbital in Wuthawchu and 166.1685832125766Ly away
+Hilbert Hub in NLTT 27413 and 166.22255706300064Ly away
+Heinlein Dock in Areklici and 166.2943579216159Ly away
+Spedding Enterprise in Wawal and 166.39980914765198Ly away
+Orbik Port in Yao Tzu and 166.41296347959945Ly away
+Potrykus City in 35 Leonis and 166.4731438316328Ly away
+Garay Terminal in Deciat and 166.53827509108078Ly away
+Matteucci Dock in Deciat and 166.53827509108078Ly away
+Reightler Dock in Draguan Nu and 167.5018219350539Ly away
+Siddha Ring in Chono and 167.52556358098008Ly away
+Joseph Delambre Terminal in Chono and 167.52556358098008Ly away
+Matheson City in Yheling and 167.58729651475676Ly away
+Archambault Horizons in Whadru and 167.71813571249533Ly away
+Shaara Ring in LP 490-68 and 167.7761337457968Ly away
+Wankel Station in BD+22 2271 and 167.96991860058603Ly away
+Rushd City in Jawul and 168.00944274522936Ly away
+Bentham Hub in Sairre and 168.02350561007825Ly away
+Vetulani Dock in Mahlanja and 168.04840553115196Ly away
+Vinci City in Mahlanja and 168.04840553115196Ly away
+Readdy Gateway in Mahlanja and 168.04840553115196Ly away
+Payette Port in Mahlanja and 168.04840553115196Ly away
+Dobrovolski Orbital in Mahlanja and 168.04840553115196Ly away
+Manning Hub in Euburiates and 168.07792963291612Ly away
+Herzog Orbital in Arugua and 168.61368915919905Ly away
+Tepper Dock in Ngolite and 168.68420302909962Ly away
+Fujimori Dock in Sedi and 169.13625066514422Ly away
+Feustel Orbital in Sedi and 169.13625066514422Ly away
+Bierce Port in Chaga and 169.29006461267153Ly away
+Thirsk Depot in HIP 65557 and 169.33445663279815Ly away
+Stebbins Port in Shilluk and 169.50220373290873Ly away
+Roth Hub in HR 783 and 169.59779224038414Ly away
+Lyulka City in HR 783 and 169.59779224038414Ly away
+Stiles Ring in HR 783 and 169.59779224038414Ly away
+Stillman Terminal in Bolowala and 169.83457599418617Ly away
+Crown Dock in Esumasci and 169.90543383103585Ly away
+Phillifent Port in Kaurukat and 169.9564052558773Ly away
+Herrington Dock in Uoluskas and 170.1004126703548Ly away
+Wait Colburn Dock in HIP 48754 and 171.0351069590685Ly away
+Dampier Enterprise in Kholita and 171.15841814401796Ly away
+Liouville Orbital in Kholita and 171.15841814401796Ly away
+Whitelaw Port in Kholita and 171.15841814401796Ly away
+Gregory Settlement in Toli Medeta and 171.54247947848077Ly away
+Mastracchio City in Toli Medeta and 171.54247947848077Ly away
+Hart Hub in Toli Medeta and 171.54247947848077Ly away
+Potagos Vision in HIP 24777 and 171.61690564943623Ly away
+Tietjen Terminal in Zoelang and 171.81118701753678Ly away
+Daniel Gateway in HIP 1389 and 171.81138879687953Ly away
+Kizim Gateway in Hunbul and 171.92379705028475Ly away
+Cyrrhus Station in Tenchih and 172.04980599287958Ly away
+Biggle Hub in Nguna and 172.36183891924858Ly away
+Gooch Orbital in HR 3584 and 172.37668259693652Ly away
+Bursch Enterprise in Kulungan and 172.39878710964007Ly away
+Ciferri Ring in Nenexo and 172.76863989071484Ly away
+Wood Orbital in HIP 3292 and 172.96358111066328Ly away
+Roche Hub in HIP 3292 and 172.96358111066328Ly away
+Langley Hub in HIP 3292 and 172.96358111066328Ly away
+Wheeler Hub in BD-05 2489 and 173.18916342579Ly away
+Vercors Hub in Surti and 173.20170345041356Ly away
+Hardy Dock in Polahukuna and 173.25722894821013Ly away
+Phillifent Terminal in Maring and 173.41355972158723Ly away
+Reis Gateway in Maring and 173.41355972158723Ly away
+Fast Vision in Sakaja and 173.72699375564812Ly away
+Wilhelm Station in Capoya and 174.1175434736905Ly away
+Brin Port in Capoya and 174.1175434736905Ly away
+Caselberg Enterprise in Bajang and 174.1332497597027Ly away
+Bennett Hub in Kulingga and 174.1457161940827Ly away
+Jett City in Elivagar and 174.32520850500222Ly away
+Bullialdus Gateway in HIP 8894 and 174.41190525681583Ly away
+Nagel Ring in Bero and 174.7879798230559Ly away
+Farkas City in Novants and 175.36704810910172Ly away
+Whitson City in HIP 13750 and 175.48978892125035Ly away
+Braun Orbital in Tengye and 175.97060634343168Ly away
+Gauss Port in Tengye and 175.97060634343168Ly away
+Shaw Port in Krine and 176.32262466498733Ly away
+Coggia Hub in Swahili and 176.7410546268891Ly away
+Kreutz Enterprise in Swahili and 176.7410546268891Ly away
+Maanen Dock in Swahili and 176.7410546268891Ly away
+Nelson Gateway in Beserket and 176.8499623400794Ly away
+Rowley City in Belgeth and 176.96300262166383Ly away
+Younghusband City in Belgeth and 176.96300262166383Ly away
+Harvey Gateway in Paiyati and 177.58578472811388Ly away
+Seega Station in Paiyati and 177.58578472811388Ly away
+Maury Vision in BD+20 1018 and 177.73893194707654Ly away
+Melvin City in Ndabangluya and 177.9158338802719Ly away
+Frost Enterprise in No Cha and 178.00040598619432Ly away
+Shklovsky Terminal in Yarifukura and 178.05662338933786Ly away
+Tasman Terminal in Ross 113 and 178.5861410233868Ly away
+Cousteau Colony in Corian Guit and 178.68997298481105Ly away
+Manning Port in Fenghus and 178.7724499669552Ly away
+Auzout Port in Chih Hiner and 178.9202287115336Ly away
+Simonyi City in Cailla and 179.58979408815247Ly away
+Sadi Carnot Station in Cailla and 179.58979408815247Ly away
+vo Station in Cailla and 179.58979408815247Ly away
+Bursch City in Wolf 232 and 179.69775514214138Ly away
+Vinci Station in Wolf 232 and 179.69775514214138Ly away
+Savinykh Terminal in Wolf 232 and 179.69775514214138Ly away
+Windt Hub in Simyr and 179.8947419022093Ly away
+Shirley Horizons in Taimin and 180.109195394419Ly away
+Wait Colburn Dock in Cakutsi and 180.11830964327308Ly away
+Vance Platform in Cakutsi and 180.11830964327308Ly away
+Quaglia Dock in Oraon and 180.3108508373456Ly away
+Ogden Enterprise in C Hydrae and 180.38781193670624Ly away
+Erikson Port in Vulganji and 180.66238259354103Ly away
+Wiberg Hub in LTT 11648 and 181.20672705417837Ly away
+Savinykh Horizons in LTT 11648 and 181.20672705417837Ly away
+Whitney Orbital in Dewindji and 181.2493696109727Ly away
+Ziljak Port in Atiusia and 181.7146576280378Ly away
+Almagro Ring in Atiusia and 181.7146576280378Ly away
+Arago Terminal in Vucasto and 181.9072216947076Ly away
+Meikle Orbital in Maghri and 181.92397053353773Ly away
+Nourse Dock in HIP 63322 and 182.12897591319043Ly away
+Rodrigues Dock in 36 Persei and 182.13385252164136Ly away
+Busch Port in 36 Persei and 182.13385252164136Ly away
+Abasheli Ring in 36 Persei and 182.13385252164136Ly away
+Herreshoff Hub in 36 Persei and 182.13385252164136Ly away
+Mitra Terminal in 36 Persei and 182.13385252164136Ly away
+Al Saud Gateway in Malean and 182.4545748261742Ly away
+Weil Station in Kunuvii and 182.6054570096072Ly away
+Stebler City in Djeriman and 182.97511197308364Ly away
+Wankel Hub in Djeriman and 182.97511197308364Ly away
+Ivins Port in Djeriman and 182.97511197308364Ly away
+Maskelyne Dock in HIP 34961 and 183.0356570666287Ly away
+Bessemer Terminal in BD+16 1001 and 183.18099346599118Ly away
+Griffin Terminal in HIP 60325 and 183.38320374031667Ly away
+Treshchov Station in Hun Pulan and 183.40392846545708Ly away
+Kreutz Orbital in Holva and 184.39035423355259Ly away
+Hoffman Hub in Backlumbha and 184.71150700568847Ly away
+Ciferri Enterprise in Hidatsa and 184.91755711583338Ly away
+Laue Terminal in Hidatsa and 184.91755711583338Ly away
+Fuglesang Terminal in Hidatsa and 184.91755711583338Ly away
+Bridges Station in Ogunda and 184.9258851751493Ly away
+Felice Port in Isla and 185.07716401713367Ly away
+Gurshtein Station in Mukurumnon and 185.33427359436246Ly away
+Merril Terminal in Madngela and 185.3370609777629Ly away
+Bierce Station in Madngela and 185.3370609777629Ly away
+Evans Ring in HIP 11352 and 185.88673151444942Ly away
+Alexandria Orbital in HIP 11352 and 185.88673151444942Ly away
+Boulton Port in Nootkena and 185.89324315736303Ly away
+Silva Port in Ocshooit and 186.16800575605762Ly away
+Makeev Gateway in Ocshooit and 186.16800575605762Ly away
+Parry Terminal in Ocshooit and 186.16800575605762Ly away
+Hackworth Ring in Secomi and 186.7351718719923Ly away
+Holub City in Cuicatec and 186.81426165947556Ly away
+Godel Co-operative in Neris and 187.09058686987035Ly away
+Wafer Dock in Neris and 187.09058686987035Ly away
+Lynn Gateway in Ordovii and 187.3122836376795Ly away
+Tilman Hub in Ordovii and 187.3122836376795Ly away
+Cabana Hub in Putana and 187.4297185988991Ly away
+Hoffman Terminal in Mileku and 187.5335516855917Ly away
+Henry Ring in Wikmeang and 187.6344543962076Ly away
+von Krusenstern Vision in Chick Ba and 187.6712004868821Ly away
+Bulgakov Ring in Lelabo and 187.77840788746187Ly away
+Burbank Gateway in Aapelinja and 187.90444400845075Ly away
+Jensen Terminal in Aapelinja and 187.90444400845075Ly away
+Meitner Gateway in Jitabed and 187.9201282709625Ly away
+Roentgen City in Udegobo and 187.92303579607398Ly away
+Yaping City in Udegobo and 187.92303579607398Ly away
+Leeuwenhoek Port in Lakheo and 188.1444471883571Ly away
+Hartmann Ring in Altani and 188.1845680193384Ly away
+Vinge Dock in HIP 13653 and 188.19883569728188Ly away
+Maire Port in Bibri and 188.4937623304814Ly away
+Boulle Orbital in Tatuba and 189.5741192243485Ly away
+Palmer Ring in Guanggi and 189.73992273965433Ly away
+Rosenberg Dock in Belie and 189.88079628249668Ly away
+Krikalev Ring in Kalveti and 190.2567678042295Ly away
+Lichtenberg Ring in Kalveti and 190.2567678042295Ly away
+Lewis Port in Adit and 190.3112453776379Ly away
+Auwers Terminal in Adit and 190.3112453776379Ly away
+Hand Colony in Prom Du and 190.54775330363384Ly away
+Csoma Enterprise in Prom Du and 190.54775330363384Ly away
+Carr Colony in HIP 23259 and 190.77717542741453Ly away
+Wilson Orbital in Lacans and 190.84596312373233Ly away
+al-Din al-Urdi Dock in Lacans and 190.84596312373233Ly away
+Higginbotham Gateway in Zagotock and 191.10583312166324Ly away
+Xiaoguan Mines in Zagotock and 191.10583312166324Ly away
+Xiaoguan Orbital in Chibio and 191.2482894122847Ly away
+Bering Ring in Ross 409 and 191.2722770930879Ly away
+Simmons Orbital in Ross 409 and 191.2722770930879Ly away
+Williams City in Ross 409 and 191.2722770930879Ly away
+Nobel Station in Ross 409 and 191.2722770930879Ly away
+Quaglia Hub in Ross 409 and 191.2722770930879Ly away
+Shepard Port in Ross 409 and 191.2722770930879Ly away
+Peano Orbital in Ross 409 and 191.2722770930879Ly away
+Shepard Hub in Ross 409 and 191.2722770930879Ly away
+Leckie City in Equagei and 191.5198361952359Ly away
+Steele Dock in Iyati and 191.77748438131366Ly away
+Cartan Enterprise in HIP 56905 and 191.9598066857031Ly away
+Blaha Dock in Sarana and 192.30115795689454Ly away
+Julian Enterprise in HIP 55118 and 192.78150074955326Ly away
+Lopez de Villalobos Enterprise in HIP 55118 and 192.78150074955326Ly away
+Bogdanov Ring in HIP 55118 and 192.78150074955326Ly away
+Boulton City in Kwangwutii and 192.80507481650994Ly away
+Yu Enterprise in Sarugh and 193.13838444720147Ly away
+Nachtigal City in Lan Caihe and 193.52669591363875Ly away
+Hopkins Terminal in Ross 71 and 193.94560186911949Ly away
+Bachman Orbital in HIP 110 and 193.95307402017374Ly away
+Baille City in Ugraswarka and 194.15700446497547Ly away
+Knight Enterprise in HIP 23716 and 194.58343426567689Ly away
+Guidoni Ring in 81 Leonis and 194.90856480106896Ly away
+Hulse Terminal in HR 7698 and 194.9508877456384Ly away
+Cleve Terminal in Dhata and 195.05760867785958Ly away
+Grushin Orbital in Duulngari and 195.35202849999408Ly away
+Robinson City in Mac Cimi and 195.37130364785537Ly away
+Kazantsev Orbital in Mac Cimi and 195.37130364785537Ly away
+Aikin Dock in Mac Cimi and 195.37130364785537Ly away
+Foden Dock in Mac Cimi and 195.37130364785537Ly away
+Carstensz Gateway in Mac Cimi and 195.37130364785537Ly away
+Perga Hub in Mac Cimi and 195.37130364785537Ly away
+Oramus Orbital in Nibelaako and 195.66735014831295Ly away
+Zhuravleva Orbital in DzacaliTem and 196.36101806128042Ly away
+Apianus Terminal in Blatuntino and 196.48353441669101Ly away
+Garneau Port in Nebthet and 197.3369728646282Ly away
+Satcher Horizons in Nebthet and 197.3369728646282Ly away
+Frick Landing in Nebthet and 197.3369728646282Ly away
+Vries Gateway in Omanmatho and 197.65481718848267Ly away
+Alcala Orbital in HIP 33654 and 197.66200337476346Ly away
+Quimby City in HIP 33654 and 197.66200337476346Ly away
+Ford Orbital in HIP 28135 and 197.93450275990918Ly away
+Rich Ring in Waimiri and 197.99468062220132Ly away
+Foss Dock in Waimiri and 197.99468062220132Ly away
+Hague Port in Osci and 198.13314750597638Ly away
+Dyomin Station in HIP 23395 and 199.14900004456462Ly away
+Gohar Port in HIP 23395 and 199.14900004456462Ly away
+Hope Station in HIP 23395 and 199.14900004456462Ly away
+Levchenko Dock in HIP 23395 and 199.14900004456462Ly away
+Xiaoguan Station in Krinda and 199.4828935139239Ly away
+Sarich City in Quaoar and 199.6012553387691Ly away
+Gurragchaa Survey in Quaoar and 199.6012553387691Ly away
+Kratman Hub in Gurabru and 199.83070227147905Ly away
+Thesiger Port in Gurabru and 199.83070227147905Ly away
+Hui Ring in Gurabru and 199.83070227147905Ly away
+Plexico Dock in Gurabru and 199.83070227147905Ly away
+Ferguson Enterprise in Gurabru and 199.83070227147905Ly away
+Schouten Ring in HIP 28813 and 200.57682686831623Ly away
+Conway City in Chaualkyrja and 200.70201500763514Ly away
+Felice Dock in Meene and 201.0179392841905Ly away
+Haber City in HIP 8825 and 202.47601613370162Ly away
+Ross Terminal in HIP 8825 and 202.47601613370162Ly away
+Aikin City in Pongkala and 202.78134390890105Ly away
+Stefansson Orbital in Jamanu and 202.99160283201988Ly away
+Delbruck Port in Madngernobo and 203.16273447580758Ly away
+Sarmiento de Gamboa City in Manhari and 203.44775079780928Ly away
+Galton Port in HIP 43296 and 203.45528196095697Ly away
+Everest Station in Sehali and 203.48374330413353Ly away
+Nikolayev Ring in Wulidjin and 203.5030928243168Ly away
+Currie Ring in Wulidjin and 203.5030928243168Ly away
+Kidman Orbital in HIP 21165 and 203.6382961627368Ly away
+Fremion Dock in Baramanago and 203.7714544877729Ly away
+Robinson Terminal in HIP 23816 and 204.1703414316401Ly away
+Crook City in Yun Dun and 204.35575454110045Ly away
+Fiennes Dock in Yun Dun and 204.35575454110045Ly away
+Varthema Port in Yun Dun and 204.35575454110045Ly away
+Zetford Hub in Yun Dun and 204.35575454110045Ly away
+Lefschetz Gateway in Yun Dun and 204.35575454110045Ly away
+Mattingly Port in Ahemakino and 204.38796547176523Ly away
+Coblentz Orbital in Hyades Sector SU-C a14-1 and 204.82945697656012Ly away
+Wenzel City in Keliuona and 204.86350734238883Ly away
+Valz Terminal in Keliuona and 204.86350734238883Ly away
+Pasteur City in Patakaka and 205.1682688787121Ly away
+Glidden Gateway in Savi and 205.3637207797424Ly away
+Farkas Hub in Savi and 205.3637207797424Ly away
+Potter Dock in Ross 596 and 205.91242734321548Ly away
+Ehrlich Dock in Ross 596 and 205.91242734321548Ly away
+Wiley Enterprise in Ross 596 and 205.91242734321548Ly away
+Bobko Orbital in Ross 596 and 205.91242734321548Ly away
+Tryggvason Ring in Ross 596 and 205.91242734321548Ly away
+Guerrero Enterprise in Taoshamorio and 206.14128526859315Ly away
+Lefschetz Enterprise in Rikbakshmi and 206.29125060972655Ly away
+Macedo Orbital in Rikbakshmi and 206.29125060972655Ly away
+Thorne Dock in HIP 50054 and 206.45090593770715Ly away
+Ross Settlement in Bratio and 207.72770121378252Ly away
+Weill Orbital in Hun Cruac and 207.83874834231466Ly away
+Dalgarno Gateway in Hun Cruac and 207.83874834231466Ly away
+Bauschinger Station in Hun Cruac and 207.83874834231466Ly away
+Soper Dock in Cava and 207.98284841393772Ly away
+Pook Dock in HIP 35873 and 208.03578699799465Ly away
+Bendell Dock in HIP 35873 and 208.03578699799465Ly away
+O'Neill Station in HIP 13564 and 208.65675780603178Ly away
+Williams Gateway in Wulpa and 208.68282508240824Ly away
+Beadle Port in Pyemma and 208.85375649377843Ly away
+Atwater Orbital in Puskas and 208.99140467149002Ly away
+Aller Terminal in Vogul and 209.0097700691884Ly away
+Kondo Dock in Vogul and 209.0097700691884Ly away
+Cixin Dock in Kurui Xee and 210.27998448497183Ly away
+Moffat Vision in HIP 114878 and 210.5775308155526Ly away
+Mozhaysky Colony in HIP 114878 and 210.5775308155526Ly away
+Belyanin Vision in HIP 1736 and 210.89275682870786Ly away
+Bendell Dock in HIP 1736 and 210.89275682870786Ly away
+Berkey Terminal in Tankobung and 211.1345792305822Ly away
+Tuan Station in Torenai and 211.4374630505436Ly away
+Grabe Terminal in Torenai and 211.4374630505436Ly away
+Herschel Hub in Torenai and 211.4374630505436Ly away
+Jakes Ring in Mohara and 211.5585163952872Ly away
+Russell Port in Mohara and 211.5585163952872Ly away
+Woodroffe Terminal in Sabines and 211.63254933374498Ly away
+Tomita Orbital in Kaukamaye and 211.75319830450613Ly away
+Cardano Hub in Sawahinn and 212.2859652795905Ly away
+Manarov Enterprise in Sawahinn and 212.2859652795905Ly away
+Salam Orbital in Nijolam and 212.62158975439795Ly away
+Tenn Park in Apademak and 212.9572516154944Ly away
+Dzhanibekov Station in Kamilagro and 213.29256838099752Ly away
+Olivas Terminal in Nyala and 214.61483031380894Ly away
+Grigson Port in Herus and 214.78500560516906Ly away
+Giancola Station in HIP 11192 and 215.53612751839307Ly away
+Elgin Hub in Chertan and 216.78458129558015Ly away
+Potagos Gateway in 63 Omicron-2 Cancri and 216.8016851943845Ly away
+Searfoss Terminal in Mapon and 217.02587061367822Ly away
+Mills Enterprise in Mapon and 217.02587061367822Ly away
+Shukor Installation in Cocassetsa and 217.314200902892Ly away
+Crown Orbital in Pi Dimshi and 217.34535854904402Ly away
+Corte-Real Dock in HIP 23027 and 217.4429275874764Ly away
+Evans Dock in Tsim Biko and 219.25693938562128Ly away
+Danvers Settlement in Kwaritreni and 219.97113846550982Ly away
+Meikle Landing in HIP 23317 and 220.6347842200148Ly away
+Wiener Gateway in HIP 49080 and 221.72143233049778Ly away
+Bester Prospect in Suhte and 222.13783947486863Ly away
+Benyovszky Survey in Suhte and 222.13783947486863Ly away
+Foale Station in Cupisii and 222.62523248864895Ly away
+Wescott Settlement in Shoroteni and 223.03133538249733Ly away
+Drummond Port in Cail and 223.09168825213436Ly away
+Christian Terminal in Cail and 223.09168825213436Ly away
+Herschel Prospect in Amahinohara and 223.44392036230255Ly away
+Hudson Ring in Polecteri and 223.69306407231875Ly away
+Shonin Gateway in Wayilwa and 224.35405760552337Ly away
+Ramsbottom Hub in Segovan and 225.45586415014247Ly away
+Godwin Orbital in Eravians and 225.8169846288693Ly away
+Hirn Dock in Itelmasa and 226.0122153432752Ly away
+Khan Dock in Gakia and 226.09779065152318Ly away
+Morrison Enterprise in Khwathis and 227.35580509275545Ly away
+Andrews Co-operative in Luang Yans and 227.63775233704646Ly away
+Humason Orbital in Keiadiras and 228.6658955700981Ly away
+Moseley Horizons in Otohiko and 228.67938630044904Ly away
+Hopkins Ring in Rang Gongs and 228.75261695907437Ly away
+Piserchia Port in Ailuremowo and 229.46574541816148Ly away
+Ball Colony in HIP 15614 and 229.62002835527Ly away
+Greene Terminal in Tibi and 230.89670013409136Ly away
+Cartier Dock in Minu and 231.53427206490403Ly away
+Maine Port in HIP 50997 and 232.14213049336823Ly away
+Chretien Oudemans Station in HIP 1536 and 232.65799823050355Ly away
+Houten-Groeneveld Survey in HIP 1536 and 232.65799823050355Ly away
+Spinrad Port in Coritini and 234.43004561929024Ly away
+Zajdel City in HIP 53452 and 235.37447308092905Ly away
+Spinrad Terminal in HIP 53452 and 235.37447308092905Ly away
+Garnier City in HIP 13257 and 235.7378812003122Ly away
+Carver Horizons in Kassi and 237.73490233674673Ly away
+Miklouho-Maclay Station in HIP 53324 and 238.23153374789618Ly away
+Meaney Dock in Bhaga and 238.54035707428Ly away
+Bao City in Vorduli and 238.8232176671167Ly away
+Matthews Station in Othiti and 239.19958896155111Ly away
+Furuta Dock in HIP 29314 and 240.06937880667954Ly away
+Crown Station in HIP 20395 and 243.6742911270083Ly away
+Staden Dock in Cornengu and 243.78512767714625Ly away
+Chios Settlement in Vertam and 245.0820055677793Ly away
+Euthymenes Prospect in Karbon and 247.71011835283394Ly away
+Brin Colony in Karbon and 247.71011835283394Ly away
+Sagan Dock in Kasho and 248.11867513979072Ly away
+Semeonis Port in Kasho and 248.11867513979072Ly away
+Bentham Station in HIP 12314 and 248.72667329382367Ly away
+Bernoulli Hub in HIP 12314 and 248.72667329382367Ly away
+Norman Dock in Pathokula and 252.10278549259428Ly away
+Nadiradze Horizons in Ualarni and 256.2299896912684Ly away
+d'Arrest Landing in Ualarni and 256.2299896912684Ly away
+Kranz Dock in Ualarni and 256.2299896912684Ly away
+Bridger Dock in Sang Wana and 256.3538204318399Ly away
+Webb Port in HIP 27986 and 257.5200841682062Ly away
+Rond d'Alembert Hub in Jardoviceni and 257.9689298152008Ly away
+Starzl Dock in HIP 39313 and 261.2241763552907Ly away
+Selous Horizons in San and 263.641633913941Ly away
+Thompson Dock in Varati and 264.72541973063807Ly away
+Forsskal Hub in Varati and 264.72541973063807Ly away
+Exodus Point in Hyades Sector AB-W b2-2 and 309.54035038363736Ly away
+Colonia Dream in Ratraii and 21937.65904514106Ly away
+Exodus Reach in Ratraii and 21937.65904514106Ly away
