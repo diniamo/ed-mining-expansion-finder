@@ -548,7 +548,7 @@ Pierce City in Girya Gu and 145.82781611587345Ly away
 Murakami Terminal in Gliese 9043 and 146.7104330709817Ly away
 Jones Port in Beetrix and 147.0291245861258Ly away
 Still Dock in Volithigga and 147.23909658273513Ly away
-Galouye Orbital in Svarizic and 147.34074095548897Ly away
+Galouye Orbital in Svarizic and 147.34074095548894Ly away
 Lyakhov Orbital in Ogmiusitou and 147.35258125708216Ly away
 Pytheas Gateway in Dhanhopi and 147.49539518765494Ly away
 Cori Colony in Nu Wana and 147.57437544866147Ly away

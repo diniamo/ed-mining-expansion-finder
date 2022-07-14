@@ -1,3 +1,3 @@
 source ./update_db.sh
 
-python EDStationFinder.py $@
+pypy3 EDStationFinder.py $@ || python EDStationFinder.py $@
