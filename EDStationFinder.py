@@ -4,6 +4,7 @@ import json
 import tqdm
 import re
 from scipy.spatial import distance
+import csv
 
 
 def get_system_pos(system_name, systems):
@@ -28,10 +29,9 @@ def get_viable_stations(systems, stations, refference_vector):
     for system in tqdm.tqdm(systems):
         if has_expansion_state(system):
             for station in stations:
-                if station["system_id"] == system["id"] and station["is_planetary"] == False:
-                    if any(x["name"] == "Expansion" for x in station["states"]):
-                        if ("Industrial" in station["economies"]) and (not all(x in station["economies"] for x in ["Extraction", "Refinery", "Terraforming"])):
-                            viable.append((station["name"], system["name"], get_system_distance(system, refference_vector)))
+                if station["system_id"] == system["id"] and station["distance_to_star"] and station["distance_to_star"] <= 750 and station["is_planetary"] == False:
+                    if any(x["name"] == "Expansion" for x in station["states"]) and ("Industrial" in station["economies"]) and (not all(x in station["economies"] for x in ["Extraction", "Refinery", "Terraforming"])):
+                        viable.append((station["name"], system["name"], get_system_distance(system, refference_vector), station["distance_to_star"]))
     return viable
 
 
@@ -53,7 +53,9 @@ if __name__ == "__main__":
     viable = get_viable_stations(systems, stations, refference_system_pos)
     viable.sort(key=lambda tup: tup[2])
     
-    os.remove("viable_stations.txt")
-    with open("viable_stations.txt", 'w') as output:
+    os.remove("viable_stations.csv")
+    with open("viable_stations.csv", 'w') as file:
+        writer = csv.writer(file)
+        writer.writerow(["Station", "System", f"Distance from {arguments} (Ly)", "Distance from star (Ls)"])
         for tup in viable:
-            output.write(f"{tup[0]} in {tup[1]} and {tup[2]}Ly away\n")
+            writer.writerow([tup[0], tup[1], tup[2], tup[3]])
