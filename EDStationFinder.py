@@ -29,7 +29,7 @@ def get_viable_stations(systems, stations, refference_vector):
     for system in tqdm.tqdm(systems):
         if has_expansion_state(system):
             for station in stations:
-                if station["system_id"] == system["id"] and station["distance_to_star"] and station["distance_to_star"] <= 750 and station["is_planetary"] == False:
+                if station["system_id"] == system["id"] and station["type"] != "Fleet Carrier" and station["is_planetary"] == False:
                     if any(x["name"] == "Expansion" for x in station["states"]) and ("Industrial" in station["economies"]) and (not all(x in station["economies"] for x in ["Extraction", "Refinery", "Terraforming"])):
                         viable.append((station["name"], system["name"], get_system_distance(system, refference_vector), station["distance_to_star"]))
     return viable
