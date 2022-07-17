@@ -30,8 +30,8 @@ def get_viable_stations(systems, stations, refference_vector):
         if has_expansion_state(system):
             for station in stations:
                 if station["system_id"] == system["id"] and station["type"] != "Fleet Carrier" and station["is_planetary"] == False:
-                    if any(x["name"] == "Expansion" for x in station["states"]) and ("Industrial" in station["economies"]) and (not all(x in station["economies"] for x in ["Extraction", "Refinery", "Terraforming"])):
-                        viable.append((station["name"], system["name"], get_system_distance(system, refference_vector), station["distance_to_star"]))
+                    if any(x["name"] == "Expansion" for x in station["states"]) and ("Industrial" in station["economies"]) and not any(x in station["economies"] for x in ["Extraction", "Refinery", "Terraforming"]):
+                        viable.append((system["name"], station["name"], get_system_distance(system, refference_vector), station["distance_to_star"]))
     return viable
 
 
@@ -56,6 +56,6 @@ if __name__ == "__main__":
     os.remove("viable_stations.csv")
     with open("viable_stations.csv", 'w') as file:
         writer = csv.writer(file)
-        writer.writerow(["Station", "System", f"Distance from {arguments} (Ly)", "Distance from star (Ls)"])
+        writer.writerow(["System", "Station", f"Distance from {arguments} (Ly)", "Distance from star (Ls)"])
         for tup in viable:
             writer.writerow([tup[0], tup[1], tup[2], tup[3]])
