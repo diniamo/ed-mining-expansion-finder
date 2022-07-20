@@ -1,6 +1,7 @@
 # Files used by program
 systems_populated.json
 stations.json
+factions.json
 viable_stations.csv
 
 # Byte-compiled / optimized / DLL files
