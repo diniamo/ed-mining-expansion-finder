@@ -1,7 +1,7 @@
 # Files used by program
 systems_populated.json
 stations.json
-viable_stations.json
+viable_stations.csv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
