@@ -2,7 +2,6 @@ import os
 import sys
 import json
 import tqdm
-import re
 from scipy.spatial import distance
 import csv
 
