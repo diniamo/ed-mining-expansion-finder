@@ -1,11 +1,12 @@
 # Elite Dangerous Mining Expansion Finder
-A tool that finds stations with the following criteras:
+A tool that finds stations with the following criterias:
 - Want:
   - Faction state: Expansion
   - Economy: Industrial
 - Don't want:
   - Economy: Extraction, Refinery, Terraforming
   - Settlements (planetary stations)
+
 and then sorts them by Ly to a specified refference system
 
 # Usage
