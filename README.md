@@ -16,4 +16,4 @@ and then sorts them by Ly to a specified refference system
   
 # Notes
 - I'm using the [EDDB system dumps](https://eddb.io/api), namely `systems_populated.json` and `stations.json`
-- You may get inconsistent results after [the tick](https://elite-dangerous.fandom.com/wiki/Background_Simulation) happens, because data is mostly collected and uploaded by users using the [ED Discovery tool](https://github.com/EDDiscovery/EDDiscovery/wiki). So if none goes there with the tool open, the dumps will have the outdated, not updated factions in them.
+- You may get inconsistent results after [the tick](https://elite-dangerous.fandom.com/wiki/Background_Simulation) happens, because data is mostly collected and uploaded by users using the [ED Discovery tool](https://github.com/EDDiscovery/EDDiscovery/wiki). So if no one goes there with the tool open, the dumps will have the outdated, unupdated factions in them.
